@@ -1,3 +1,5 @@
+
+# 直接下载core即可 SNI 是x域名
 # v2rayN
 
 ### How to use
